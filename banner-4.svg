@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="banner-0.svg"
+   inkscape:export-filename="/home/juozas/ritual/banner-v1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.95"
+     inkscape:cx="978.31178"
+     inkscape:cy="1096.8044"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       orientation="1,0"
+       position="469.40792,1158.921"
+       id="guide3091" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1470,1188.1186"
+       id="guide3093" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke:none"
+       id="rect4340"
+       width="2269.4736"
+       height="975.78949"
+       x="-303.1579"
+       y="-33.953617" />
+    <rect
+       style="stroke:#000000;stroke-width:1.27172589"
+       id="rect2985"
+       width="1921.2083"
+       height="121.514"
+       x="1.9731343"
+       y="0.76764387" />
+    <image
+       y="14.112217"
+       x="1241.027"
+       id="image3065"
+       xlink:href="file:///home/juozas/ritual/ritual-i.png"
+       height="103.73439"
+       width="224.99147" />
+    <text
+       xml:space="preserve"
+       style="font-size:33.14233398px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="473.33063"
+       y="113.62701"
+       id="text3087"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3089"
+         x="473.33063"
+         y="113.62701"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Asap;-inkscape-font-specification:Asap Bold">about  current issue  archive  blog  subscribe</tspan></text>
+    <image
+       y="89.053825"
+       x="1125.8158"
+       id="image3199"
+       xlink:href="file:///home/juozas/ritual/style-social-icons.png"
+       height="31.676758"
+       width="119.31579" />
+    <g
+       transform="translate(2.1277589,-47.69468)"
+       id="g4073">
+      <rect
+         y="200.85675"
+         x="468.9234"
+         height="634.84222"
+         width="670.27374"
+         id="rect4029"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.99999988" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4031"
+         y="443.94113"
+         x="563.1579"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="443.94113"
+           x="563.1579"
+           id="tspan4033"
+           sodipodi:role="line">LAYOUT GOES HERE</tspan></text>
+      <rect
+         y="200.20422"
+         x="1163.9158"
+         height="634.84222"
+         width="303.95795"
+         id="rect4029-5"
+         style="fill:#cccccc;stroke:#000000;stroke-width:0.99999988" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4031-9"
+         y="447.49918"
+         x="1210.6766"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="447.49918"
+           x="1210.6766"
+           id="tspan4033-2"
+           sodipodi:role="line">LAYOUT</tspan></text>
+    </g>
+  </g>
+</svg>
